@@ -1,0 +1,12 @@
+{"file":"endview.png","frames":{
+"clickback":{"x":617,"y":169,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"clicknext":{"x":457,"y":311,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"clickreplay":{"x":296,"y":453,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"cloud":{"x":457,"y":0,"w":538,"h":167,"offX":0,"offY":0,"sourceW":538,"sourceH":167},
+"lighting":{"x":0,"y":0,"w":455,"h":451,"offX":0,"offY":0,"sourceW":455,"sourceH":451},
+"lightingpoint":{"x":913,"y":169,"w":30,"h":30,"offX":0,"offY":0,"sourceW":30,"sourceH":30},
+"money":{"x":457,"y":169,"w":158,"h":140,"offX":0,"offY":0,"sourceW":158,"sourceH":140},
+"nomalback":{"x":148,"y":453,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"nomalnext":{"x":765,"y":169,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"nomalreplay":{"x":0,"y":453,"w":146,"h":146,"offX":0,"offY":0,"sourceW":146,"sourceH":146},
+"star":{"x":605,"y":317,"w":125,"h":121,"offX":1,"offY":1,"sourceW":126,"sourceH":122}}}

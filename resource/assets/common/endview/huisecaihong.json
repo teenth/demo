@@ -1,0 +1,57 @@
+{"file":"huisecaihong.png",
+  "mc":{
+    "huisecaihong": {
+      "frameRate": 15,
+      "labels": [
+        {
+          "name": "start",
+          "frame": 1
+        }
+      ],
+      "frames": [
+        {
+          "res": "huise0000",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0001",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0002",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0003",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0004",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0005",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "huise0006",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    }},
+  "res":{
+    "huise0000":{"x":1,"y":1,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0001":{"x":370,"y":1,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0002":{"x":1,"y":250,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0003":{"x":370,"y":250,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0004":{"x":1,"y":499,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0005":{"x":370,"y":499,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247},
+    "huise0006":{"x":1,"y":748,"w":367,"h":247,"offX":0,"offY":0,"sourceW":367,"sourceH":247}}}
+
